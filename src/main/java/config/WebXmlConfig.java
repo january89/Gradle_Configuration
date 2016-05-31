@@ -8,7 +8,6 @@ import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.DispatcherServlet;
 
 import javax.servlet.*;
-import java.config.ExampleApplicationContext;
 import java.util.EnumSet;
 
 public class WebXmlConfig implements WebApplicationInitializer{
