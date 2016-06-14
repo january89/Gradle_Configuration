@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/january89/Tdoraemon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/january89/Learn_To_Eight_Algorithm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Git" />
